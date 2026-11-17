@@ -1,4 +1,4 @@
-### GetRidOfGemini
+# GetRidOfGemini
 ## Finally, an easy way to get rid of the slop.
 
 ### How to Get Rid of Gemini
