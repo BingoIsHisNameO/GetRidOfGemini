@@ -8,3 +8,7 @@
 #### 2. CD or dir into folder. Now run "./GeminiNuker.ps1"
 
 #### 3. Enjoy.
+
+##### Extras:
+
+##### Log is in C:\Temp\GeminiNukerLogs. I've pushed this out via InTune Remediation scripts, works this way too!
